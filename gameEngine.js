@@ -151,5 +151,10 @@ function GAME_CANVAS(backgroundColor,borderWidth,borderColor,width,height,x,y,id
 		
 		
 	}
+	
+	this.addShapeModel = function(shapeType,shapeX,shapeY,pointInitialize) {
+	}
+	
+	
 	//
 }
